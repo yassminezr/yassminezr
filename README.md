@@ -4,7 +4,7 @@
 
 I build data pipelines, cloud analytics platforms, and AI applications, from data ingestion and quality checks to analytics and document intelligence.
 
-🎯 Seeking a **4–6 month final-year internship starting February 2027** in **Data Engineering or AI / Machine Learning**.
+🎯 Seeking a **4–6 month final-year internship starting January 2027** in **Data Engineering or AI / Machine Learning**.
 
 ## Featured Projects
 

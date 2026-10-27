@@ -8,7 +8,7 @@ I build data pipelines, cloud analytics platforms, and AI applications, from dat
 
 ## Featured Projects
 
-### 01 · Quality Intelligence Platform — DXC Technology Internship
+### ### 01 · [Quality Intelligence Platform](https://github.com/yassminezr/quality-intelligence-platform) — DXC Technology Internship 
 A platform supporting ISO 9001 audit monitoring through data ingestion, quality checks, centralized storage, and interactive dashboards.
 
 **My work:** Excel ingestion and standardization, data quality rules, PostgreSQL data modeling, Airflow orchestration, and action monitoring.
